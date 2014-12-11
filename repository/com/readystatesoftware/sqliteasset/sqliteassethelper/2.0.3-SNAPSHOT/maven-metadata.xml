@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.readystatesoftware.sqliteasset</groupId>
+  <artifactId>sqliteassethelper</artifactId>
+  <version>2.0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141210.151118</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141210151118</lastUpdated>
+  </versioning>
+</metadata>
